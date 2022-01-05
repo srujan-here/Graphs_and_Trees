@@ -5,4 +5,4 @@ This is the #30dayschallenge to cover all the data structures and algorithms of 
 
 
 
-Refereces: Luv(Youtube Channel)[c++course],Apni Kaksha(youtube channel)[c++ course]
+Refereces: Luv(Youtube Channel)[c++course],Apni Collage(youtube channel)[c++ course]
