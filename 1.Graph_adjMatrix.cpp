@@ -2,7 +2,7 @@
 using namespace std;
 const int N=1e3+10;
 int g[N][N];          //O(n*n)-space complexity(drawback)
-#define ll long long
+#define ll long long  //finding an element takes O(1) time complexity
 int main(){
     int n,m;
     cin>>n>>m;
